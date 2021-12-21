@@ -1,0 +1,144 @@
+body{
+	background-image: url("./achtergrond.png");
+	background-color: aqua;
+}
+.top_nav {
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    overflow: hidden;
+    background-color: white;
+    font-size:2vw;    
+    width: 100%;
+    border: violet 5px;
+}
+
+.top_nav a {
+    width:10%;    
+    color: white;    
+    text-decoration: none;   
+    font-family: monospace;
+
+}
+
+.top_nav a:hover {
+    background-color: #ed0162;
+    color: white;
+}
+
+img{
+   width:100%;
+   }
+   
+   #short{
+      width:2.5%;
+      }
+
+
+.iets{
+height: 160px;
+width: 160px;
+}
+.vak{
+    top: 50px;
+    left: 150px;
+    height: 150px;
+    width: 550px;
+    position: relative;
+}
+.vak1{
+   position: absolute;
+   top: 500px;
+  right: 150px;
+  width: 500px;
+  height: 120px;
+  
+}
+.vak2{
+   top: 450px;
+    left: 150px;
+    height: 150px;
+    width: 550px;
+    position: relative;
+}
+
+.footer {
+  height: 50px;
+  margin-top: -50px;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+  body{
+	background-image: url("./achtergrond.png");
+	background-color: aqua;
+}
+.top_nav {
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    overflow: hidden;
+    background-color: white;
+    font-size:2vw;    
+    width: 100%;
+    border: violet 5px;
+}
+
+.top_nav a {
+    width:10%;    
+    color: white;    
+    text-decoration: none;   
+    font-family: monospace;
+
+}
+
+.top_nav a:hover {
+    background-color: #ed0162;
+    color: white;
+}
+
+img{
+   width:100%;
+   }
+   
+   #short{
+      width:2.5%;
+      }
+
+
+.iets{
+    height: 60px;
+    width: 60px;
+}
+.vak{
+    top: 50px;
+    left: 50px;
+    height: 50px;
+    width: 350px;
+    position: relative;
+}
+.vak1{
+   position: absolute;
+   top: 600px;
+  right: 50px;
+ height: 50px;
+    width: 350px;
+  
+}
+.vak2{
+   top: 900px;
+      left: 50px;
+    height: 50px;
+    width: 350px;
+    position: relative;
+}
+}
+/*hou je ook van het ontwerpen van website of heb je er een passie voor. gebruik xd
+xd is is makkelijk te gebruiken
+je kuht plugin downloaden voor een makkelijke ontwerp te maken
+
+*/
